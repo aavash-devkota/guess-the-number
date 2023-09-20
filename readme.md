@@ -44,7 +44,7 @@ This project uses the following external crates:
 - `rand` - for generating random numbers.
 - `colored` - for adding colors to the console output.
 
-You can find more information about these crates and their usage in the Rust documentation.
+You can find more information about these crates and their usage in the official documentation of Rust.
 
 ## Contributing
 
